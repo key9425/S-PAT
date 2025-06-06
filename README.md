@@ -263,7 +263,7 @@
 ## ✏ 프로젝트 진행
 
 ### 프로젝트 전체 관리 방법
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/프로젝트관리방법.png?ref_type=heads" width="700" />
+<img src="img/ReadMe/프로젝트관리방법.png?ref_type=heads" width="700" />
 
 <br />
 <br />
@@ -291,13 +291,13 @@ QA  기간: 2025.05.17 ~ 2025.05.22 <br />
 ## 👷 기타 산출물
 
 
-[포팅 메뉴얼 보러가기](exec/포팅 매뉴얼.pdf)
+[포팅 메뉴얼 보러가기](exec/PortingManual.md)
 
 [중간 발표회 PPT 보러가기](exec/scenario/S108_S-PAT_중간발표회PPT.pptx)
 
 [최종 발표회 PPT 보러가기](exec/scenario/S108_S-PAT_최종발표회PPT.pptx)
 
-[사용 메뉴얼 보러가기](exec/scenario/S-PAT 사용메뉴얼.pptx)
+[사용 메뉴얼 보러가기](exec/scenario/S-PAT_사용메뉴얼.pptx)
 
 <br />
 <br />
